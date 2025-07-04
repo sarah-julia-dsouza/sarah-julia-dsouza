@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I’m an MSBA student at Boston University.
+- # I’m an MSBA student at Boston University.
 
 - ⚡I love problem-solving and finding patterns in data.
 - 😄 I'm an enthusiastic learner
