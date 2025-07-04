@@ -1,4 +1,4 @@
-##### Hi there 👋
+## Hi there 👋
 
 # I’m an MSBA student at Boston University.
 
