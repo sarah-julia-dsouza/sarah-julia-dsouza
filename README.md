@@ -5,6 +5,7 @@
 - ⚡I love problem-solving and finding patterns in data.
 - 😄 I'm an enthusiastic learner
 - ✨ I enjoy cooking and playing the keyboard
+- My Previous Git profile was Quantum 404
 
 📫 Connect with me
 <div id="badges">
